@@ -1,0 +1,17 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tictactoe game for two players",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run ./spec/test.js"
+  },
+  "author": "Nick Vrdoljak",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "react": "^16.3.2",
+    "requirejs": "^2.3.5"
+  }
+}
